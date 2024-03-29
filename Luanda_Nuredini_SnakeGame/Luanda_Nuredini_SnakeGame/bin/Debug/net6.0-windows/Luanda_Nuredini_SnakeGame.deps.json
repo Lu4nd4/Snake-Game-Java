@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Luanda_Nuredini_SnakeGame/1.0.0": {
+        "runtime": {
+          "Luanda_Nuredini_SnakeGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luanda_Nuredini_SnakeGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
